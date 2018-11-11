@@ -45,7 +45,9 @@ Special thanks to
   * [Fallout 1 Vision Statement](https://www.scribd.com/doc/32182571/Fallout-1-Vision-Statement)
   * [Planescape Torment Vision Statement 1997](https://www.scribd.com/doc/32182096/Planescape-Torment-Vision-Statement-1997)
   * [Bioshock Pitch Document](https://www.scribd.com/doc/32211144/Bioshock-Pitch-Document)
-* **[Mike Rose](https://twitter.com/RaveofRavendale)** for [Making the World Give a Damn About Your Game in 2018](https://youtu.be/IWRu3RRqQmY)
+* **[Mike Rose](https://twitter.com/RaveofRavendale)** for
+  * [How to announce a video game in 2017](https://www.gamesindustry.biz/articles/2017-09-12-how-to-announce-a-video-game-in-2017)
+  * [Making the World Give a Damn About Your Game in 2018](https://youtu.be/IWRu3RRqQmY)
 * **Kurian Tharakan** for [The Best Elevator Pitch Examples, Templates, and Tactics](https://strategypeak.com/elevator-pitch-examples/)
 * **Brittney Ervin** for [6 Ideas for How to Write Intriguing Headlines](http://www.inboundmarketingagents.com/inbound-marketing-agents-blog/bid/346450/6-Ideas-for-How-to-Write-Intriguing-Headlines)
 * **[PurpleBooth](https://github.com/PurpleBooth)** for [README Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
