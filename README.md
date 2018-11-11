@@ -46,6 +46,7 @@ Special thanks to
   * [Planescape Torment Vision Statement 1997](https://www.scribd.com/doc/32182096/Planescape-Torment-Vision-Statement-1997)
   * [Bioshock Pitch Document](https://www.scribd.com/doc/32211144/Bioshock-Pitch-Document)
 * **[Kyle Speaker](https://tutsplus.com/authors/kyle-speaker?_ga=2.224439194.1689116585.1541960636-266152398.1537465956)** for [What's in a Name? Data Analysis of 5,820 Steam Games](https://gamedevelopment.tutsplus.com/articles/whats-in-a-name-data-analysis-of-5820-steam-games--cms-30101)
+* **[Cameron Wood](https://tutsplus.com/authors/cameron-wood?_ga=2.245932036.1689116585.1541960636-266152398.1537465956)** for [Choosing the Right Name for Your Game](https://gamedevelopment.tutsplus.com/articles/choosing-the-right-name-for-your-game--gamedev-3895)
 * **[Mike Rose](https://twitter.com/RaveofRavendale)** for
   * [How to announce a video game in 2017](https://www.gamesindustry.biz/articles/2017-09-12-how-to-announce-a-video-game-in-2017)
   * [Making the World Give a Damn About Your Game in 2018](https://youtu.be/IWRu3RRqQmY)
