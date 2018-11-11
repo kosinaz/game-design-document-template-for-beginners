@@ -38,7 +38,7 @@ Special thanks to
 * **[Tim Ryan](http://www.gamasutra.com/view/authors/915461/Tim_Ryan.php)** for [The Anatomy of a Design Document, Part 1: Documentation Guidelines for the Game Concept and Proposal](http://www.gamasutra.com/view/feature/3384/the_anatomy_of_a_design_document_.php)
 * **Tom Sloper** for [Frequently Asked Question #2: Sample outline for a Game Design Document](http://www.sloperama.com/advice/specs.html)
 * **[Gamux](https://tutsplus.com/authors/gamux?_ga=2.22725307.1689116585.1541960636-266152398.1537465956)** for [Effectively Organize Your Game's Development With a Game Design Document](https://code.tutsplus.com/articles/effectively-organize-your-games-development-with-a-game-design-document--active-10140)
-* **[dbasilioesp](https://github.com/dbasilioesp) for [Game Design Documents](https://github.com/dbasilioesp/game-design-documents)
+* **[dbasilioesp](https://github.com/dbasilioesp)** for [Game Design Documents](https://github.com/dbasilioesp/game-design-documents)
 * **[jon-jones](https://www.scribd.com/user/28174098/jon-jones)** for 
   * [Grand Theft Auto Design Document](https://www.scribd.com/doc/53563149/Grand-Theft-Auto-Design-Document)
   * [Fallout Brotherhood of Steel 2 Design Document](https://www.scribd.com/doc/32184089/Fallout-Brotherhood-of-Steel-2-Design-Document)
