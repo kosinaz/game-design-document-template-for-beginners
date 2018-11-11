@@ -46,4 +46,5 @@ Special thanks to
   * [Planescape Torment Vision Statement 1997](https://www.scribd.com/doc/32182096/Planescape-Torment-Vision-Statement-1997)
   * [Bioshock Pitch Document](https://www.scribd.com/doc/32211144/Bioshock-Pitch-Document)
 * **Kurian Tharakan** for [The Best Elevator Pitch Examples, Templates, and Tactics](https://strategypeak.com/elevator-pitch-examples/)
+* **Brittney Ervin** for [6 Ideas for How to Write Intriguing Headlines](http://www.inboundmarketingagents.com/inbound-marketing-agents-blog/bid/346450/6-Ideas-for-How-to-Write-Intriguing-Headlines)
 * **[PurpleBooth](https://github.com/PurpleBooth)** for [README Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
