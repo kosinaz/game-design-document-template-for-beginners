@@ -4,7 +4,7 @@ The primary goal of a Game Design Document is to organize efforts within the dev
 
 ## Getting Started
 
-Simply clone or download the Game Design Document.md from the /docs folder.
+Simply clone or download the [Game Design Document.md](docs/Game%20Design%20Document.md) from the docs folder.
 
 ### Prerequisites
 
@@ -16,19 +16,19 @@ Copy it into your local project folder and start editing it in your favorite tex
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags](https://github.com/kosinaz/game-design-document-template-for-beginners/tags) on this repository. 
 
 ## Authors
 
-See the list of [contributors](https://github.com/purplebooth/git-lint-validators/contributors) who participated in this project.
+See the list of [contributors](https://github.com/kosinaz/game-design-document-template-for-beginners/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+See [LICENSE](LICENSE).
 
 ## Acknowledgments
 
