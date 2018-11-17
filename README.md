@@ -49,6 +49,7 @@ Special thanks to
 * **[Cameron Wood](https://tutsplus.com/authors/cameron-wood?_ga=2.245932036.1689116585.1541960636-266152398.1537465956)** for [Choosing the Right Name for Your Game](https://gamedevelopment.tutsplus.com/articles/choosing-the-right-name-for-your-game--gamedev-3895)
 * **[Scott Miller](https://dukenukem.typepad.com/about.html)** for [Name matters](https://dukenukem.typepad.com/game_matters/2004/02/the_name_of_the.html)
 * **Vincent Turcot** for [Art direction, and why it’s important](https://subaeria.com/2015/06/03/art-direction-and-why-its-important/)
+* **Literary Terms** for [Setting](https://literaryterms.net/setting/)
 * **[Mike Rose](https://twitter.com/RaveofRavendale)** for
   * [How to announce a video game in 2017](https://www.gamesindustry.biz/articles/2017-09-12-how-to-announce-a-video-game-in-2017)
   * [Making the World Give a Damn About Your Game in 2018](https://youtu.be/IWRu3RRqQmY)
