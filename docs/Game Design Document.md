@@ -1,6 +1,7 @@
 # Game title: subtitle
 
 ## Introduction
+
 In the first one or two sentences include the game's title, art direction, niche, genre, platfrom, story, setting, gameplay features, and the edge that makes your game unique.
 
 (title) is a (art direction), (niche) (genre) for (platform) about (story), set (setting), featuring (gameplay features).
@@ -37,3 +38,20 @@ Examples:
 1. Defender's Quest (title) is a Tower-Defense/RPG Hybrid (genre-edge) tightly focuses on three things: tactical depth, customization, and story.
 1. Darkest Dungeon (title) is a challenging gothic (niche) roguelike turn-based RPG (genre) about the psychological stresses of adventuring (story-edge).
 1. No Man's Sky (title) is a game about exploration and survival (genre) in an infinite procedurally generated universe (setting-edge).
+
+## Description
+
+In a few paragraphs describe the game as if you were pitching it to potential players. Encompass all the crucial elements by explaining what the player does, sees and has to overcome. Avoid specifics such as mouse-clicks and keystrokes, but don't be too vague.
+
+Examples:
+1. Fallout: You can shoot everything in this game: people, animals, buildings and walls. You can make called shots on people, so you can aim for their eyes or their groin. Called shots can do more damage, knock the target unconscious or have other effects. When people die, they don't just die - they get cut in half, they melt into a pile of goo, explode like a blood sausage, or several different ways -  depending on the weapon you use. When I use my rocket launcher on some poor defenseless townsperson, he'll know (and his neighbors will be cleaning up the blood for weeks!)
+1. Planescape Torment: Fireball can go hide in the fucking corner when you unleash your arsenal. Jam your hand into an opponent's body, rip out his soul and tell it to kill its owner. Make a gesture, and summon a blanket of crawling, biting insects to turn your enemy into a happy meal. Send your foes on a field trip to hell without a permission slip. Taunt someone to death. Summon your darkest shadows from
+across existence and send them into battle to feed on your opponent's physical strength. Your succubus ally can kiss your opponents to death - they die with a smile on their face.
+1. Bioshock: Things grow inside you. We're part of you now, you think you hear them say. You step away from the med bench. The diagnostics screen presents a revolting before and after. On the left side, the before side, you see yourself. What you were. Human. And on the right side... what you are. What you've become. The only way you'll survive, the only way you'll...
+1. Football Manager 2019: Simulation gaming perfected. Create your unique footballing story by taking charge of the club you love. Complete control of this stunningly realistic game world is yours - every decision in your hands, or yours to delegate. Your call, your way, your story. Everything you've ever dreamed of!
+1. Rust: The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive.
+1. ARK Survival Evolved: As a man or woman stranded naked, freezing and starving on the shores of a mysterious island called ARK, you must hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements. Use your cunning and resources to kill or tame & breed the leviathan dinosaurs and other primeval creatures roaming the land, and team up with or prey on hundreds of other players to survive, dominate... and escape!
+1. Aztec: Aztez is a unique hybrid of beat 'em up and turn-based strategy set in the world of the Aztec Empire. Deploy your Aztez (elite close combat warriors) in the metagame and enjoy a highly technical real-time combat event that has consequences in the empire. But choose your missions wisely, as you have limited deployments! A great enemy approaches the Valley Of Mexico, and it will require all of your skill and cunning to take them on and change the course of history...
+1. Cuphead: Play as Cuphead or Mugman (in single player or local co-op) as you traverse strange worlds, acquire new weapons, learn powerful super moves, and discover hidden secrets while you try to pay your debt back to the devil!
+
+
