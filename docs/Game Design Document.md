@@ -1,7 +1,7 @@
 # Game title: subtitle
 
 ## Introduction
-In the first sentence include the game's title, art direction, niche, genre, platfrom, story, setting, gameplay features, and the edge that makes your game unique.
+In the first one or two sentences include the game's title, art direction, niche, genre, platfrom, story, setting, gameplay features, and the edge that makes your game unique.
 
 (title) is a (art direction), (niche) (genre) for (platform) about (story), set (setting), featuring (gameplay features).
 
