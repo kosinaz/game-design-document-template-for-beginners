@@ -57,4 +57,5 @@ Special thanks to
 * **Kurian Tharakan** for [The Best Elevator Pitch Examples, Templates, and Tactics](https://strategypeak.com/elevator-pitch-examples/)
 * **Brian Upton** for [30 Things I Hate About Your Game Pitch](https://www.youtube.com/watch?v=4LTtr45y7P0)
 * **Brittney Ervin** for [6 Ideas for How to Write Intriguing Headlines](http://www.inboundmarketingagents.com/inbound-marketing-agents-blog/bid/346450/6-Ideas-for-How-to-Write-Intriguing-Headlines)
-* **[PurpleBooth](https://github.com/PurpleBooth)** for [README Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* **[PurpleBooth](https://github.com/PurpleBooth)** for [README Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+* **[gamedesigning.org](https://www.gamedesigning.org/learn/game-design-document/)** for [Create Your First Game Design Document](https://www.gamedesigning.org/learn/game-design-document/)
